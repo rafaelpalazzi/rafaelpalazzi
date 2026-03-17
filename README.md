@@ -4,9 +4,8 @@
 
 **Professor & Researcher · FEA-USP**
 
-[![Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=OjFwjl4AAAAJ)](https://scholar.google.com)
+[![Google Scholar](https://scholar.google.com.br/scholar?hl=pt-BR&as_sdt=0%2C5&q=rafael+palazzi&oq=r)](https://scholar.google.com)
 [![Lattes](https://lattes.cnpq.br/8321651050539536)](http://lattes.cnpq.br)
-[![SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6701939)](https://ssrn.com)
 [![Site](https://img.shields.io/badge/GitHub_Pages-rafaelpalazzi.github.io-00FF94?style=flat&logo=github)](https://rafaelpalazzi.github.io)
 
 </div>
@@ -69,7 +68,7 @@ I am a professor and researcher at **FEA-USP** (Universidade de São Paulo), wor
 
 ## Contact
 
-- 📧 **Email:** *(seu email aqui)*
+- 📧 **Email:** *palazzi@usp.br*
 - 🏛️ **FEA-USP** — Departamento de Administração
 - 🔗 **[Lattes](http://lattes.cnpq.br)** · **[SSRN](https://ssrn.com)** · **[Google Scholar](https://scholar.google.com)**
 
